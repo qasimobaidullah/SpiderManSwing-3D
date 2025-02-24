@@ -45,6 +45,7 @@ This project is a third-person character controller developed in Unity, featurin
 ## **Play the Game**  
 
 🔗 **Itch.io:** https://rainbow-flamingo.itch.io/spidey-swinger
+
 🎥 **YouTube:** https://youtu.be/AgtkEaC0P4Q  
 
 ## **Acknowledgements**  
