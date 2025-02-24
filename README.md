@@ -7,15 +7,15 @@ This project is a third-person character controller developed in Unity, featurin
 
 - **Swinging Mechanics:**  
   Swing between objects using webs for seamless traversal.  
-  ![Swinging Mechanics](screenshot/swing.png)  
+  ![Swinging Mechanics](Screenshot/swing.png)  
 
 - **Climbing System:**  
   Intuitive wall-climbing functionality for various surfaces.  
-  ![Climbing System](screenshot/climb.png)  
+  ![Climbing System](Screenshot/climb.png)  
 
 - **Ground Movement:**  
   Smooth walking, running, sprinting, and jumping controls.  
-  ![Ground Movement](screenshot/tps.png)  
+  ![Ground Movement](Screenshot/tps.png)  
 
 - **Animations:** Integrated with Mixamo's pre-made animation assets for smooth character movements.  
 
